@@ -3,4 +3,6 @@
 A funny command using a .bat file 
 
 
-[ScreenShot](/Capture.png)
+# ScreenShot
+
+<img width="964" alt="jarray reverse exampl" src="https://github.com/jaimehernan95/arrayReview-java/blob/master/images/arrayReverse.png">

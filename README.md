@@ -21,12 +21,10 @@ First create a file and name it what ever you want "example : tuto"
 
 Now you have to **copy past** this code
 
-```@echo off
-
+```
+@echo off
 color 0a
-
 :top
 echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
-
 goto top
 ```

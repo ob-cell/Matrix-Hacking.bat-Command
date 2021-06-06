@@ -14,3 +14,8 @@ A funny command using a .bat file
 
 # How to setup? 
 
+First create a file and name it what ever you want "example : tuto"
+
+<img width="964" alt="ScreenShot" src="https://github.com/boypro8/Matrix-Hacking.bat-Command/blob/0505db065f10bed0cfd9b98554565a5b894b897e/capture-1.gif">
+
+
